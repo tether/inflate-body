@@ -1,12 +1,8 @@
-
 {
   "name": "inflate-body",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "tape test/*.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tether/inflate-body.git"
@@ -20,8 +16,8 @@
     "url": "https://github.com/tether/inflate-body/issues"
   },
   "homepage": "https://github.com/tether/inflate-body#readme",
-  "devDependencies": {
-    "tape": "*"
+  "dependencies": {
+    "inflation": "^2.0.0",
+    "raw-body": "^2.2.0"
   }
 }
-  

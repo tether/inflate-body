@@ -1,11 +1,10 @@
 # Inflate-Body
 
-[![Build Status](https://travis-ci.org/tether/inflate-body.svg?branch=master)](https://travis-ci.org/tether/inflate-body)
 [![NPM](https://img.shields.io/npm/v/inflate-body.svg)](https://www.npmjs.com/package/inflate-body)
 [![Downloads](https://img.shields.io/npm/dm/inflate-body.svg)](http://npm-stat.com/charts.html?package=inflate-body)
 [![guidelines](https://tether.github.io/contribution-guide/badge-guidelines.svg)](https://github.com/tether/contribution-guide)
 
-Automatically unzip an HTTP stream and validate its buffer length against an expected length and maximum limit. This module is ideal for parsing HTTP request bodies with string encodings.
+Returns inflate data from a given HTTP stream and validate its buffer length against an expected length and maximum limit. This module is ideal for parsing HTTP request bodies with string encodings.
 
 ## Usage
 
