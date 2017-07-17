@@ -1,7 +1,7 @@
 {
   "name": "inflate-body",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automatically unzip an HTTP stream and validate its buffer length",
   "main": "index.js",
   "repository": {
     "type": "git",
