@@ -1,6 +1,6 @@
 {
   "name": "inflate-body",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically unzip an HTTP stream and validate its buffer length",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,11 @@
     "url": "git+https://github.com/tether/inflate-body.git"
   },
   "keywords": [
-    "tether"
+    "request",
+    "inflate",
+    "unzip",
+    "body",
+    "http"
   ],
   "author": "Petrofeed Inc",
   "license": "MIT",
